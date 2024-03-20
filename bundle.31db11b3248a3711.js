@@ -35562,7 +35562,7 @@
             description: 'Corporate Metaverse Demo',
             image: 'images/projects/corporate.png',
             tags: ['webgl', 'javascript', 'backend'],
-            liveview: 'https://brianyoung-metaverse.vercel.app/',
+            liveview: 'https://johnnie-metaverse.vercel.app/',
             alt: 'Corporate Metaverse Demo portfolio project',
           },
           {
@@ -35683,11 +35683,11 @@
         }
       }
       const sf = [
-        { name: 'React', width: '100%' },
-        { name: 'Node.js', width: '95%' },
         { name: 'Solidity', width: '90%' },
-        { name: 'Rust', width: '90%' },
-        { name: 'Solid.js', width: '100%' },
+        { name: 'React', width: '100%' },
+        { name: 'TypeScript', width: '90%' },
+        { name: 'Node.js', width: '95%' },
+        { name: 'Next.js', width: '100%' },
         { name: 'Web3', width: '95%' },
       ]
       class af {
