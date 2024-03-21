@@ -35683,12 +35683,12 @@
         }
       }
       const sf = [
-        { name: 'Solidity', width: '90%' },
+        { name: 'Solidity', width: '100%' },
         { name: 'React', width: '100%' },
-        { name: 'TypeScript', width: '90%' },
-        { name: 'Node.js', width: '95%' },
-        { name: 'Next.js', width: '100%' },
-        { name: 'Web3', width: '95%' },
+        { name: 'TypeScript', width: '95%' },
+        { name: 'Node.js', width: '90%' },
+        { name: 'Next.js', width: '85%' },
+        { name: 'Web3', width: '100%' },
       ]
       class af {
         domElements = {
